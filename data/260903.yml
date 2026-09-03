@@ -1,11 +1,13 @@
 about:
-  description: 汉字转拼音(pypinyin)
+  description:
+  |
+    汉字转拼音(pypinyin)
   license: MIT
   homepage: https://pypinyin.readthedocs.io
   head: 8595294
   archived: false
   latestVersion: v0.55.0
-  collectedAt: 2026-09-03T05:13:05Z
+  collectedAt: 2026-09-03T22:36:23Z
 timeline:
   created: 2013-09-14
   lastCommit: 2026-04-19
@@ -21,7 +23,7 @@ popularity:
 language:
   Python: 3979228
   Makefile: 2834
-totalLine: 3982062
+totalBytes: 3982062
 recent:
   last30d:
     since: 2026-08-04
