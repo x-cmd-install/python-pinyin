@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.55.0"
   latestRelease: "v0.55.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:34:42Z
+  collectedAt: 2026-09-09T19:19:39Z
 timeline:
   created: 2013-09-14
   lastCommit: 2026-04-19
@@ -84,7 +84,7 @@ total:
   commit: 856
 ---
 path: /home/runner/.x-repo/github.com/mozillazg/python-pinyin
-collectedAt: 2026-09-09T04:34:45Z
+collectedAt: 2026-09-09T19:19:41Z
 loc:
   Json:
     code: 567734
