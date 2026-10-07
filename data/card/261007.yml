@@ -229,4 +229,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 9 are checked with a SAST tool'
 ---
-{"id":233748972,"author":{"login":"bors-homu","id":32156617,"node_id":"MDQ6VXNlcjMyMTU2NjE3","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAMPFrs4N7rns","tag_name":"v0.55.0","target_commitish":"master","name":"v0.55.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-07-20T11:53:35Z","updated_at":"2025-07-20T12:11:54Z","published_at":"2025-07-20T12:11:54Z","assets":[],"body":""}
