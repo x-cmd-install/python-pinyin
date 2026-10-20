@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,375 · **Forks**: 631 · **Open issues**: 291 · **Contributors**: 24
+- **Stars**: 5,376 · **Forks**: 631 · **Open issues**: 291 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 4 | 0 | 1 | 2 |
-| last60d | 2026-08-20 | 0 | 0 | 4 | 0 | 1 | 2 |
-| 90d | 2026-07-21 | 0 | 0 | 4 | 0 | 1 | 2 |
-| last180d | 2026-04-22 | 0 | 2 | 5 | 0 | 4 | 2 |
-| 360d | 2025-10-24 | 0 | 5 | 5 | 1 | 6 | 7 |
-| last720d | 2024-10-29 | 2 | 11 | 6 | 11 | 15 | 31 |
+| 30d | 2026-09-20 | 0 | 0 | 4 | 0 | 1 | 2 |
+| last60d | 2026-08-21 | 0 | 0 | 4 | 0 | 1 | 2 |
+| 90d | 2026-07-22 | 0 | 0 | 4 | 0 | 1 | 2 |
+| last180d | 2026-04-23 | 0 | 2 | 5 | 0 | 4 | 2 |
+| 360d | 2025-10-25 | 0 | 5 | 5 | 1 | 6 | 7 |
+| last720d | 2024-10-30 | 2 | 11 | 6 | 11 | 15 | 31 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for python-pinyin lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:30:42Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:43:46Z._
