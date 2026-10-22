@@ -26,13 +26,13 @@ Total: **674,031** lines of code across **85** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.2 / 10**
+Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/27 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,376 · **Forks**: 631 · **Open issues**: 291 · **Contributors**: 24
+- **Stars**: 5,377 · **Forks**: 631 · **Open issues**: 291 · **Contributors**: 24
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 4 | 0 | 1 | 2 |
-| last60d | 2026-08-22 | 0 | 0 | 4 | 0 | 1 | 2 |
-| 90d | 2026-07-23 | 0 | 0 | 4 | 0 | 1 | 2 |
-| last180d | 2026-04-24 | 0 | 2 | 5 | 0 | 4 | 2 |
-| 360d | 2025-10-26 | 0 | 5 | 5 | 1 | 6 | 7 |
-| last720d | 2024-10-31 | 2 | 11 | 6 | 11 | 15 | 31 |
+| 30d | 2026-09-22 | 0 | 0 | 4 | 0 | 1 | 2 |
+| last60d | 2026-08-23 | 0 | 0 | 4 | 0 | 1 | 2 |
+| 90d | 2026-07-24 | 0 | 0 | 4 | 0 | 1 | 2 |
+| last180d | 2026-04-25 | 0 | 2 | 5 | 0 | 4 | 2 |
+| 360d | 2025-10-27 | 0 | 5 | 5 | 1 | 6 | 7 |
+| last720d | 2024-11-01 | 2 | 11 | 6 | 11 | 15 | 31 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for python-pinyin lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:33:07Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:32:39Z._
