@@ -14,13 +14,13 @@ x install python-pinyin
 
 ## Code insight
 
-Total: **674,031** lines of code across **85** files in the top 5 languages.
+Total: **674,122** lines of code across **85** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 567,734 | 0 | 0 | 2 |
-| Python | 104,028 | 526 | 1,040 | 68 |
-| ReStructuredText | 1,710 | 0 | 816 | 12 |
+| Python | 104,115 | 541 | 1,056 | 68 |
+| ReStructuredText | 1,712 | 0 | 817 | 12 |
 | Makefile | 230 | 6 | 51 | 2 |
 | Batch | 212 | 1 | 29 | 1 |
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,386 · **Forks**: 633 · **Open issues**: 292 · **Contributors**: 24
+- **Stars**: 5,387 · **Forks**: 633 · **Open issues**: 292 · **Contributors**: 26
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 72 · **Open PRs**: 5 · **Closed issues**: 252 · **Open issues**: 40 · **Commits**: 861
+- **Releases**: 38 · **Merged PRs**: 74 · **Open PRs**: 3 · **Closed issues**: 253 · **Open issues**: 39 · **Commits**: 869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 4 | 2 | 0 | 2 | 5 |
-| last60d | 2026-09-02 | 0 | 4 | 2 | 0 | 2 | 5 |
-| 90d | 2026-08-03 | 0 | 4 | 2 | 0 | 2 | 5 |
-| last180d | 2026-05-05 | 0 | 6 | 3 | 0 | 5 | 5 |
-| 360d | 2025-11-06 | 0 | 9 | 3 | 1 | 7 | 10 |
-| last720d | 2024-11-11 | 2 | 15 | 4 | 14 | 13 | 34 |
+| 30d | 2026-10-03 | 0 | 5 | 1 | 1 | 1 | 11 |
+| last60d | 2026-09-03 | 0 | 5 | 1 | 1 | 1 | 11 |
+| 90d | 2026-08-04 | 0 | 5 | 1 | 1 | 1 | 11 |
+| last180d | 2026-05-06 | 0 | 8 | 1 | 1 | 4 | 11 |
+| 360d | 2025-11-07 | 0 | 11 | 1 | 2 | 6 | 16 |
+| last720d | 2024-11-12 | 2 | 17 | 2 | 15 | 12 | 42 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for python-pinyin lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:55:11Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:53:01Z._
