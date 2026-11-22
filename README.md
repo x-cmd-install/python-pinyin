@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 1 | 2 | 1 | 0 | 9 |
-| last60d | 2026-09-22 | 0 | 5 | 2 | 1 | 1 | 11 |
-| 90d | 2026-08-23 | 0 | 5 | 2 | 1 | 1 | 11 |
-| last180d | 2026-05-25 | 0 | 8 | 2 | 1 | 2 | 11 |
-| 360d | 2025-11-26 | 0 | 11 | 2 | 2 | 6 | 14 |
-| last720d | 2024-12-01 | 2 | 17 | 3 | 14 | 11 | 42 |
+| 30d | 2026-10-23 | 0 | 1 | 2 | 1 | 0 | 9 |
+| last60d | 2026-09-23 | 0 | 5 | 2 | 1 | 1 | 11 |
+| 90d | 2026-08-24 | 0 | 5 | 2 | 1 | 1 | 11 |
+| last180d | 2026-05-26 | 0 | 8 | 2 | 1 | 2 | 11 |
+| 360d | 2025-11-27 | 0 | 11 | 2 | 2 | 6 | 14 |
+| last720d | 2024-12-02 | 2 | 17 | 3 | 14 | 11 | 42 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for python-pinyin lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:58:14Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:35:57Z._
